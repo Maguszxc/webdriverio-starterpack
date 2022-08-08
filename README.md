@@ -1,5 +1,5 @@
 # Webdriverio-starterpack
-# This Webdriverio-starterpack have npm installations or framework / libraries 
+# Webdriverio-starterpack have npm installations or framework / libraries 
 -- ( PRE INSTALLED NPM MODULES )
 -- Mocha ( npm i mocha )
 -- Chai ( npm i chai )
@@ -8,8 +8,8 @@
 
 
 After cloning this repo 
-#1 npm install 
-#2 After installing node_modules install now the webdriverio using the command:
+.1 npm install 
+.2 After installing node_modules install now the webdriverio using the command:
   -npx wdio config ( it will install the webdriverio 
   ( choose the settings you want ) 
   * in my case, this is the configuration that i used
